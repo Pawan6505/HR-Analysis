@@ -5,7 +5,7 @@ This project presents an interactive HR Analytics Dashboard built in Power BI. T
 ---
 ##  Dashboards Included
 
-- Dashboard Interaction <a href= " https://github.com/Pawan6505/HR-Analysis/blob/main/HR%20DESHBOARD.pbix ">View Dashboard</a>
+- Dashboard Interaction <a href= "https://github.com/Pawan6505/HR-Analysis/blob/main/HR%20DESHBOARD.pbix">View Dashboard</a>
 
 ### 1. **Attrition Dashboard**
 - Attrition by Age Group
