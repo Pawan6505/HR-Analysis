@@ -5,6 +5,8 @@ This project presents an interactive HR Analytics Dashboard built in Power BI. T
 ---
 ##  Dashboards Included
 
+- Dashboard Interaction <a href= " https://github.com/Pawan6505/HR-Analysis/blob/main/HR%20DESHBOARD.pbix ">View Dashboard</a>
+
 ### 1. **Attrition Dashboard**
 - Attrition by Age Group
 - Attrition by Department
@@ -12,7 +14,9 @@ This project presents an interactive HR Analytics Dashboard built in Power BI. T
 - Attrition by Business Travel
 - Attrition Count (Card)
 - Attrition Rate (%) (Measure)
-- Dashboard Interaction 
+
+---
+
 ### 2. **Compensation & Tenure Dashboard**
 - Average Monthly Income by Job Role & Department
 - Average Years at Company by Department
